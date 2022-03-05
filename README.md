@@ -2,15 +2,18 @@
 Coding Dojo Project 01 - Supermarket project Repository
 03/05/2022
 
+
 **Goal of the project**
 
 This project aims to use the following dataset to gain insights on supermarket sales for retailers. Its looks at features of locations, supermarket type and size, items sold and its relation to outlet sales. 
+
 
 **Source for this dataset**
 
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
 csv file(name - sales_predictions.csv) of data set located in this repository
+
 
 **Data Dictionary for this dataset**
 
@@ -46,9 +49,12 @@ Through out the project the following steps have been taken
 -Application of Machine learning methods eg Linear Regression, Regression tree and Random Forest in comparision to a baseline model.
 
 
+
+
 **Recommendation**
 
 Finally a recommendation are presented as a short presentation.
+
 
 
 
