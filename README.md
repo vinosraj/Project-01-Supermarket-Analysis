@@ -50,3 +50,18 @@ Through out the project the following steps have been taken
 
 Finally a recommendation are presented as a short presentation.
 
+
+
+**Files in Project Repository**
+
+Exploratory Data Visualizations - Final_Copy_of_Project_1_Exploratory_data_Visualizations.ipynb
+
+Machine Learning Analysis -
+
+Recommendation Slides -
+
+Video Recordning of presentation -
+
+
+
+
