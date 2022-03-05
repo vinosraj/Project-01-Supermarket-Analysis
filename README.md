@@ -62,12 +62,12 @@ Finally a recommendation are presented as a short presentation.
 
 Exploratory Data Visualizations - Final_Copy_of_Project_1_Exploratory_data_Visualizations.ipynb
 
-Machine Learning Analysis -
+Machine Learning Analysis - File_Copy_of_Project_1_Final_Machine_learning.ipynb
 
 Presentation Slides - Coding Dojo Project 01 Supermarket presentation.pdf
 
 Video Recording of presentation -
 
-
+also available on link - https://www.loom.com/share/c3fd510baf9e45268012272619e60bc6
 
 
