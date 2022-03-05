@@ -64,9 +64,9 @@ Exploratory Data Visualizations - Final_Copy_of_Project_1_Exploratory_data_Visua
 
 Machine Learning Analysis -
 
-Recommendation Slides -
+Presentation Slides - Coding Dojo Project 01 Supermarket presentation.pdf
 
-Video Recordning of presentation -
+Video Recording of presentation -
 
 
 
