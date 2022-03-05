@@ -66,7 +66,7 @@ Machine Learning Analysis - File_Copy_of_Project_1_Final_Machine_learning.ipynb
 
 Presentation Slides - Coding Dojo Project 01 Supermarket presentation.pdf
 
-Video Recording of presentation -
+Video Recording of presentation - Project 1 Final - Sales prediction Project (Compressed).mp4
 
 also available on link - https://www.loom.com/share/c3fd510baf9e45268012272619e60bc6
 
