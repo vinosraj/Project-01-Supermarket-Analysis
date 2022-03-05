@@ -10,7 +10,7 @@ This project aims to use the following dataset to gain insights on supermarket s
 
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
-csv file of data set located in data folder in repository
+csv file(name - sales_predictions.csv) of data set located in this repository
 
 **Data Dictionary for this dataset**
 
